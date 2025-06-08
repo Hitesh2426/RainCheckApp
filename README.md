@@ -111,3 +111,14 @@ RainCheckApp/
 - ⚠️**Location not detected?**
   - Try running on a real device instead of the emulator.
   - Ensure GPS/location services are on.
+
+``
+## - 🎥 Demo Video
+
+A 30-second screen recording is included as part of this submission (rain_check_demo.mp4), demonstrating:
+•	Location permission flow
+•	Auto-location and city name detection
+•	Date selection (up to 5 days)
+•	Weather forecast display
+•	Rain prediction message
+•	Error handling (if location or API fails)
